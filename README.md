@@ -1,16 +1,23 @@
 # CreArte
 
-## Desarrollo Web: HTML, CSS y Javascript
-                                                         	
-Alumnas/os:
+ 
+## Frontend: HTML, CSS y Javascript
+## Backend: Django, Python, Mysql, PythonAnywhere
 
-Araujo Sebastian - 31559192
-Manrique V Lidia - 33606019
-Pascolo Gisela Silvia - 33194025
+### Trabajo Práctico Final
+### Sitio Web “CREARTE”
+
+                                                         	
+### Alumnas/os:
+
+
+Araujo Sebastian 
+
+Manrique V Lidia 
+
  
 
-Trabajo Práctico 
-Sitio Web “CREARTE”
+
  
 ### 1. Título y Descripción del Proyecto:
 Título: "crearte" sitio web de una cervecería.
