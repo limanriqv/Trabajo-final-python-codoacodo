@@ -68,4 +68,8 @@ Archivos en github:
 
 https://github.com/limanriqv/Django-Crearte
 
+### Capturas de pantalla de PythonAnywhere:
+
+https://drive.google.com/file/d/1uzVpef5A0OPaj_GdaTvja3tA_XdkZihW/view?usp=sharing
+
 
