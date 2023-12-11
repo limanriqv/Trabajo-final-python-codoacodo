@@ -60,7 +60,12 @@ Deploy githubPages:
 https://limanriqv.github.io/TrabajoPractico-para-codo-a-codo-CREARTE/
 
 ### 8. Enlace a la página web en PythonAnywhere frontend y backend:
+Deploy en PythonAnywhere:
 
 https://lmv2024.pythonanywhere.com/
+
+Archivos en github: 
+
+https://github.com/limanriqv/Django-Crearte
 
 
